@@ -10,7 +10,7 @@
 </div>
 
 ## About
-This is a "thonk" emoji generator to genearte silly looking thinking emojis.
+This is a "thonk" emoji generator to generate silly looking thinking emojis.
 
 ## Details
 The code for this project was written in Python and compiled to JavaScript using a tool called py2js written by me! You can read more about it [here](https://github.com/evan18c/pythontojs).
