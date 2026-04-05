@@ -5,7 +5,7 @@
  # 🤔 Thonk Generator 🤔
 
  <p align="center">
-  <a href="">Try it here!</a>
+  <a href="https://evan18c.github.io/thonk/">Try it here!</a>
  </p>
 </div>
 
